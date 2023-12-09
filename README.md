@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小付同学祝您今天愉快!&center=true&size=27" />
     </a>
   </div>
 
@@ -49,7 +49,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/assets/images/steven.png" />
 
-<p>&emsp;&emsp;大家好，我是小孙同学。</p>
+<p>&emsp;&emsp;大家好，我是小付同学。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
@@ -161,23 +161,6 @@ Mac                      38 hrs 57 mins      ███████████�
 
 
 </table>
-
-
-<center>
-
-<!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/assets/images/man_run.png" width="250" height="250" />
-
-<!-- Joke 笑话 -->
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
-</div>
-</center>
-
 
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
