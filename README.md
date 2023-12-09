@@ -163,19 +163,6 @@ Mac                      38 hrs 57 mins      ███████████�
 </table>
 
 
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Risingrode&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Risingrode&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Risingrode&theme=default&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/assets/images/right.png" />
-
-<!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -311,33 +298,6 @@ Mac                      38 hrs 57 mins      ███████████�
 <img width="36%" src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/assets/images/githubgif.gif" />
 
 
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Risingrode/Risingrode/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
